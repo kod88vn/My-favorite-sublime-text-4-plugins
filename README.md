@@ -1,7 +1,9 @@
 # plugins
-* GITGUTTER
-* BRACKETHIGHLIGHTER
-* SIDEBARENHANCEMENTS
+* Gitgutter
+* BracketHighlighter
+* SidebarEnhancements
+* SublimeCodeIntel
+* SublimeLinter
 
 # user config:
 {
